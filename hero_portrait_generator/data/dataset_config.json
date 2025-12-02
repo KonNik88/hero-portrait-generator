@@ -1,0 +1,8 @@
+{
+  "image_size": 64,
+  "channels": 3,
+  "cond_dim": 16,
+  "num_gender_classes": 2,
+  "num_hero_classes": 9,
+  "num_palette_classes": 5
+}

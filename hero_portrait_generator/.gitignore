@@ -1,0 +1,27 @@
+# Python & virtualenv
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+.env
+.venv/
+venv/
+.env.*
+*.env
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+.jupyter/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project artifacts
+train_images/
+artifacts_gan/
+
+

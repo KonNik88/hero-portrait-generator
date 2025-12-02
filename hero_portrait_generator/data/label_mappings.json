@@ -1,0 +1,46 @@
+{
+  "gender_classes": [
+    "feminine",
+    "masculine"
+  ],
+  "gender_to_idx": {
+    "feminine": 0,
+    "masculine": 1
+  },
+  "hero_classes": [
+    "barbarian",
+    "bard",
+    "cavalry",
+    "cleric",
+    "knight",
+    "mage",
+    "ranger",
+    "rogue",
+    "warrior"
+  ],
+  "hero_to_idx": {
+    "barbarian": 0,
+    "bard": 1,
+    "cavalry": 2,
+    "cleric": 3,
+    "knight": 4,
+    "mage": 5,
+    "ranger": 6,
+    "rogue": 7,
+    "warrior": 8
+  },
+  "palette_classes": [
+    "cool",
+    "dark",
+    "muted",
+    "neutral",
+    "warm"
+  ],
+  "palette_to_idx": {
+    "cool": 0,
+    "dark": 1,
+    "muted": 2,
+    "neutral": 3,
+    "warm": 4
+  }
+}
